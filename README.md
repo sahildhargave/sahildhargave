@@ -1,6 +1,10 @@
 <!-- //[![MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi 👋, I'm Sahil Dhargave</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sahil+Dhargave....;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
 <h3 align="center">A passionate About upskilling my knowledge from India</h3>
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-dhargave&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-dhargave" /> </p>
@@ -28,3 +32,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-dhargave&show_icons=true&locale=en" alt="sahil-dhargave" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-dhargave&" alt="sahil-dhargave" /></p>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/sahil-dhargave/flutter-meal" title="Daily_meals"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-dhargave&repo=flutter-meal&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/sahil-dhargave/sort-visualizer.git" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-dhargave&repo=sort-visualizer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/sahil-dhargave?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
+
+
+
+<!-- Nothing weird to see here -->
