@@ -9,9 +9,9 @@
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildhargave&label=Profile%20views&color=0e75b6&style=flat" alt="sahildhargave" /> </p>
 
-- 🔭 I’m currently working on **Advance E- Note**
+- 🔭 I’m currently working on **Microservice And Advance Backend**
 
-- 🌱 I’m currently learning **Docker,Redis, Machine learning concept**
+- 🌱 I’m currently learning **Docker concept**
 
 - 💬 Ask me about **Web ,MERN,Backend,react, FLutter ,Docker, redis**
 
