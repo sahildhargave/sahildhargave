@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **Microservice GO And Advance Backend**
 
-- 🌱 I’m currently learning **Docker concept**
+- 🌱 I’m currently learning **Redis and gRPC concept**
 
-- 💬 Ask me about **Web ,MERN,Backend,react, FLutter ,Docker, redis**
+- 💬 Ask me about **Web ,MERN,Backend,React, Flutter ,Docker, Golang**
 
 - 📫 How to reach me **sahildhargave5253@gmail.com**
 
